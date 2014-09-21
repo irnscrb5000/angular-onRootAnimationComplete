@@ -1,0 +1,9 @@
+.colorize {
+  display: block;
+  transition: 1s background ease;
+}
+
+.colorize-red {
+  color: white;
+  background: red;
+}
